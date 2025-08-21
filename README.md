@@ -1,3 +1,5 @@
+https://inertia-studios-clone.vercel.app/
+
 # Inertia Studios Clone
 
 This project is a modern web application that serves as a clone of the Inertia Studios website. Built with [Next.js](https://nextjs.org/) and [React](https://react.dev/), it showcases advanced CGI, 3D imagery, and motion design for leading brands. The site features smooth scrolling, animated transitions, and a fully responsive layout.
