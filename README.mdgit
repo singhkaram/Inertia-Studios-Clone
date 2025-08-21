@@ -1,0 +1,1 @@
+"# Inertia-Studios-Clone"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:singhkaram/Inertia-Studios-Clone.gitgit push -u origin main
